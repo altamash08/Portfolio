@@ -14,8 +14,7 @@ import c from "./c.png";
 import ccc from "./ccc.png";
 import java from "./java.png";
 
-
-export default {
+const icons = {
     html,
     css,
     js,
@@ -23,5 +22,14 @@ export default {
     nodejs,
     mongodb,
     express,
-    docker, git, github, typescript, python, c, ccc, java
+    docker,
+    git,
+    github,
+    typescript,
+    python,
+    c,
+    ccc,
+    java
 };
+
+export default icons;

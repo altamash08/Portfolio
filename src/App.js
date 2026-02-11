@@ -6,7 +6,7 @@ import Layout from './components/Layout'
 import Skills from './components/skills'
 import Projects from './components/projects'
 import Dashboard from './components/Dashboard'
-import { useState, useEffect } from 'react'
+
 import './App.scss'
 
 function App() {
