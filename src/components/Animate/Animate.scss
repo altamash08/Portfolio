@@ -1,0 +1,23 @@
+.animate-wrapper {
+  width: 90vh;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 0px;
+  font-weight: 300;
+}
+
+.developer-text {
+  width: 90%;
+  max-width: 900px;
+
+}
+
+.developer-text path {
+  fill: none;
+  stroke-width: 10;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}

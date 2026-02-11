@@ -1,0 +1,28 @@
+.drawa-container {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.shape {
+  stroke-width: 8;
+  stroke-linecap: round;
+  fill: transparent;
+}
+
+/* Colors */
+
+.pink {
+  stroke: yellow;
+}
+
+.blue {
+  stroke: #ffffff;
+}
+
+.green {
+  stroke: #0ea5c3;
+}
