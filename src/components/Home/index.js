@@ -71,7 +71,7 @@ const Home = () => {
           </Link>
          <div className="resume">
   <a
-    href="https://drive.google.com/file/d/1myUd6dAcDS_3AxW8f_QNrM4ugISUsvdg/view?usp=drive_link"
+    href="https://drive.google.com/file/d/1gnBIM-qwQyfmQQOXhxwcwUM8UCOcZTDc/view?usp=drive_link"
     download
     className="flat-button"
   >

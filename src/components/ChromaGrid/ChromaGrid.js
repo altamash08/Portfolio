@@ -3,6 +3,8 @@ import "./ChromaGrid.scss";
 
 import justbuyy from "../../assets/images/justbuyy.png";
 import quickbite from "../../assets/images/quickbite.png";
+import altamashvault from "../../assets/images/altamashvault.png";
+
 
 const projects = [
   {
@@ -14,6 +16,11 @@ const projects = [
     title: "QuickBite",
     image: quickbite,
     link: "https://quickbite-eat.onrender.com/",
+  },
+  {
+    title: "Altamash-Vault",
+    image: altamashvault,
+    link: "https://altamashvault.vercel.app/",
   },
 ];
 
